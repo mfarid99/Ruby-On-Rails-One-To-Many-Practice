@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  open: 9.99
+  high: 9.99
+  low: 9.99
+
+two:
+  open: 9.99
+  high: 9.99
+  low: 9.99
